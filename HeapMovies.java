@@ -1,4 +1,4 @@
-/* Paisley Brown, Ainsley Ellison 5/13/24, HeapMovies.java
+/* Teddy Taussig 5/13/24, HeapMovies.java
 This program uses an array to implement a Heap to store movies in order of rating. */
 
 import java.io.*;
