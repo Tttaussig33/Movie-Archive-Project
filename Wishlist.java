@@ -1,4 +1,4 @@
-/* Paisley Brown, 4/28/2024, Wishlist.java
+/* Teddy Taussig, 4/28/2024, Wishlist.java
 This program implements a wish-list of movies (max size 20) using an array queue. 
 Will return a null pointer exception if the wishlist is empty and someone tries to access. */
 
