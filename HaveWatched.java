@@ -1,4 +1,4 @@
-//Alec Blevins, Ainsley Ellison, 05/07/2024, HaveWatched.java, a linked list of watched movies. 
+//Teddy Taussig, 05/07/2024, HaveWatched.java, a linked list of watched movies. 
 
 import java.util.Scanner;
 import java.io.*;
