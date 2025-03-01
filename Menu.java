@@ -1,4 +1,4 @@
-/* Ainsley Ellison, Paisley Brown, Alec Blevins, Teddy Taussig
+/* Teddy Taussig
 05/08/2024: Menu.java
 Menu for movie database */
 
