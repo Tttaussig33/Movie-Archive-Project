@@ -1,4 +1,4 @@
-/* Paisley Brown, 4/28/2024, CustRec.java
+/* Teddy Taussig, 4/28/2024, CustRec.java
 This program implements a customer record. */
 
 import java.util.Scanner;
