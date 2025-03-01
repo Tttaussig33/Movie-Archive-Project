@@ -1,4 +1,4 @@
-//Ainsley Ellison, 05/13/2024, HashMovies.java. Uses a hash with seperate chaining to store all available movies.
+//Teddy Taussig, 05/13/2024, HashMovies.java. Uses a hash with seperate chaining to store all available movies.
 
 import java.util.Scanner;
 import java.io.*;
