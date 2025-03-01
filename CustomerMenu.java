@@ -1,4 +1,4 @@
-//Ainsley Ellison, 05/13/2024, CustomerMenu.java, allows for customer login and access to account + available movies.
+//Teddy Taussig, 05/13/2024, CustomerMenu.java, allows for customer login and access to account + available movies.
 
 import java.io.*;
 import java.util.Scanner;
