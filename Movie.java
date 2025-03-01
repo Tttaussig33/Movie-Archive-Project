@@ -1,4 +1,4 @@
-//Alec Blevins & Teddy Taussig, 04/29/24, Movie.java, A program that implements a movie archive. 
+//Teddy Taussig, 04/29/24, Movie.java, A program that implements a movie archive. 
 
 import java.io.*; 
 
