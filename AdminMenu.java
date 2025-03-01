@@ -1,4 +1,4 @@
-//Ainsley Ellison, 05/13/2024, AdminMenu.java. Allows an admin login to access the behind the scenes parts of the database.
+//Teddy Taussig, 05/13/2024, AdminMenu.java. Allows an admin login to access the behind the scenes parts of the database.
 
 import java.io.*;
 import java.util.Scanner;
