@@ -1,4 +1,4 @@
-// Teddy Taussig, Alex Blevins, 5/13/24, MovieDates.java, implementing a Binary Search Tree to store movies by release date.
+// Teddy Taussig 5/13/24, MovieDates.java, implementing a Binary Search Tree to store movies by release date.
 
 import java.io.*;
 public class MovieDates implements java.io.Serializable{
