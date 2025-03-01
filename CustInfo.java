@@ -1,4 +1,4 @@
-// Alec Blevins, 05/01/24, CustInfo.java, a record of each customer using a BST. 
+// Teddy Taussig, 05/01/24, CustInfo.java, a record of each customer using a BST. 
 import java.io.*;
 public class CustInfo implements java.io.Serializable{
 	private CustRec root = null;
